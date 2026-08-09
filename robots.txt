@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-depozitom-50-rubley.github.io
+Sitemap: https://kazino-s-depozitom-50-rubley.github.io/sitemap.xml
